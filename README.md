@@ -143,18 +143,17 @@ for i in range(1, n + 1):
     ax.get_xaxis().set_visible(False)
     ax.get_yaxis().set_visible(False)
 plt.show()
-
-## OUTPUT
+```
+##  OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-```
+
 ![Screenshot 2024-04-30 211509](https://github.com/karuniya2005/convolutional-denoising-autoencoder/assets/161425769/f0b7c170-c4bb-46bf-a009-d6dc7d270889)
-```
 
 ### Original vs Noisy Vs Reconstructed Image
-```
+
 ![Screenshot 2024-04-30 213506](https://github.com/karuniya2005/convolutional-denoising-autoencoder/assets/161425769/32cb5971-f932-4c4f-b4f6-7e0688941f0e)
-```
+
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
