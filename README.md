@@ -11,7 +11,7 @@ Using autoencoder, we are trying to remove the noise added in the encoder part a
 
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![Screenshot 2024-04-30 214846](https://github.com/karuniya2005/convolutional-denoising-autoencoder/assets/161425769/1db5095a-ac81-410a-a623-3c4786f66780)
 
 ## DESIGN STEPS
 
@@ -147,12 +147,14 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-c:\Users\admin\OneDrive\图片\Screenshots 1\Screenshot 2024-04-30 211509.png
+```
+![Screenshot 2024-04-30 211509](https://github.com/karuniya2005/convolutional-denoising-autoencoder/assets/161425769/f0b7c170-c4bb-46bf-a009-d6dc7d270889)
+```
 
 ### Original vs Noisy Vs Reconstructed Image
-
-c:\Users\admin\OneDrive\图片\Screenshots 1\Screenshot 2024-04-30 213506.png
+```
+![Screenshot 2024-04-30 213506](https://github.com/karuniya2005/convolutional-denoising-autoencoder/assets/161425769/32cb5971-f932-4c4f-b4f6-7e0688941f0e)
+```
 
 ## RESULT
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
